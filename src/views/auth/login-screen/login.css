@@ -1,0 +1,15 @@
+.myForm{
+    position:absolute;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../../../images/loginBackground.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.formShow{
+    width: 60vw;
+    margin: auto auto;
+    margin-top: 15vh;
+}
